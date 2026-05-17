@@ -1,0 +1,75 @@
+{
+    "products": [
+        {
+        "id": 1,
+        "name": "Backpack",
+        "description": "A sturdy backpack for carrying books and supplies.",
+        "price": 29.99,
+        "image": "https://example.com/images/backpack.jpg"
+        },
+        {
+        "id": 2,
+        "name": "Notebook",
+        "description": "A spiral notebook for taking notes in class.",
+        "price": 3.99,
+        "image": "https://example.com/images/notebook.jpg"
+        },
+        {
+        "id": 3,
+        "name": "Pencil Case",
+        "description": "A compact pencil case to keep your writing tools organized.",
+        "price": 9.99,
+        "image": "https://example.com/images/pencil-case.jpg"
+        },
+        {
+        "id": 4,
+        "name": "Lunchbox",
+        "description": "A durable lunchbox to keep your food fresh.",
+        "price": 14.99,
+        "image": "https://example.com/images/lunchbox.jpg"
+        },
+        {
+        "id": 5,
+        "name": "Water Bottle",
+        "description": "A reusable water bottle to stay hydrated throughout the day.",
+        "price": 7.99,
+        "image": "https://example.com/images/water-bottle.jpg"
+        },
+        {
+        "id": 6,
+        "name": "Ruler",
+        "description": "A plastic ruler for measuring and drawing straight lines.",
+        "price": 2.99,
+        "image": "https://example.com/images/ruler.jpg"
+        },
+        {
+        "id": 7,
+        "name": "Eraser",
+        "description": "A simple eraser for correcting mistakes.",
+        "price": 1.99,
+        "image": "https://example.com/images/eraser.jpg"
+        },
+        {
+        "id": 8,
+        "name": "Calculator",
+        "description": "A basic calculator for math classes.",
+        "price": 19.99,
+        "image": "https://example.com/images/calculator.jpg"
+        },
+        {
+        "id": 9,
+        "name": "Highlighter Set",
+        "description": "A set of colorful highlighters for marking important information.",
+        "price": 12.99,
+        "image": "https://example.com/images/highlighter-set.jpg"
+        }, 
+        {
+        "id": 10,
+        "name": "Binder",
+        "description": "A three-ring binder to keep your papers organized.",
+        "price": 8.99,
+        "image": "https://example.com/images/binder.jpg"
+        }
+    ]
+    
+}
