@@ -1,16 +1,17 @@
-# React + Vite
+# READY FOR SCHOOL
+This is a school shop application built with React. It allows users to browse and purchase school supplies, while administrators can manage the inventory and track expenses.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
+- Browse a variety of school supplies- Add items to the shopping cart
+- View and manage the shopping cart
+- Admin panel for adding new items and tracking expenses
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technologies Used
+- React for building the user interface
+- React Router for navigation
+- Tailwind CSS for styling
+- State management with React's useState hook
+- Local storage for persisting cart data
+- Form handling for admin item management
+- Lucide icons for visual enhancements
