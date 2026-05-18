@@ -1,4 +1,5 @@
 import React from 'react'
+import { ShoppingCart } from 'lucide-react'
 
 export default function Home() {
   return (
@@ -10,6 +11,7 @@ export default function Home() {
       <div className='flex flex-row gap-8 mt-15 justify-center items-center'>
         <button className='border rounded-md px-6 py-2 font-semibold bg-opacity-80 backdrop-blur-sm shadow-md hover:scale-115 ease-in-out duration-300'>SIGN UP</button>
         <button className='border rounded-md px-6 py-2 font-semibold  bg-opacity-80 backdrop-blur-sm shadow-md hover:scale-115 ease-in-out duration-300'>LOGIN</button>
+        <ShoppingCart size={38} className='text-blue-500 hover:text-blue-600 hover:scale-115 ease-in-out duration-300' />
       </div>
     </div>
   )

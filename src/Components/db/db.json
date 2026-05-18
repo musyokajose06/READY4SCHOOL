@@ -5,70 +5,70 @@
         "name": "Backpack",
         "description": "A sturdy backpack for carrying books and supplies.",
         "price": 29.99,
-        "image": "https://example.com/images/backpack.jpg"
+        "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500"
         },
         {
         "id": 2,
         "name": "Notebook",
         "description": "A spiral notebook for taking notes in class.",
         "price": 3.99,
-        "image": "https://example.com/images/notebook.jpg"
+        "image": "https://images.unsplash.com/photo-1623697899811-f2403f50685e?w=703"
         },
         {
         "id": 3,
         "name": "Pencil Case",
         "description": "A compact pencil case to keep your writing tools organized.",
         "price": 9.99,
-        "image": "https://example.com/images/pencil-case.jpg"
+        "image": "https://images.unsplash.com/photo-1623228639000-3c9f7908dc88?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
         {
         "id": 4,
         "name": "Lunchbox",
         "description": "A durable lunchbox to keep your food fresh.",
         "price": 14.99,
-        "image": "https://example.com/images/lunchbox.jpg"
+        "image": "https://images.unsplash.com/photo-1585521898778-db1cf9b8b64e?w=500"
         },
         {
         "id": 5,
         "name": "Water Bottle",
         "description": "A reusable water bottle to stay hydrated throughout the day.",
         "price": 7.99,
-        "image": "https://example.com/images/water-bottle.jpg"
+        "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e9?w=500"
         },
         {
         "id": 6,
         "name": "Ruler",
         "description": "A plastic ruler for measuring and drawing straight lines.",
         "price": 2.99,
-        "image": "https://example.com/images/ruler.jpg"
+        "image": "https://images.unsplash.com/photo-1609542039990-e9cc7b6b7ff9?w=500"
         },
         {
         "id": 7,
         "name": "Eraser",
         "description": "A simple eraser for correcting mistakes.",
         "price": 1.99,
-        "image": "https://example.com/images/eraser.jpg"
+        "image": "https://images.unsplash.com/photo-1580088160562-40c08d2d8f8d?w=500"
         },
         {
         "id": 8,
         "name": "Calculator",
         "description": "A basic calculator for math classes.",
         "price": 19.99,
-        "image": "https://example.com/images/calculator.jpg"
+        "image": "https://images.unsplash.com/photo-1494318141107-2b57c8ed4a3f?w=500"
         },
         {
         "id": 9,
         "name": "Highlighter Set",
         "description": "A set of colorful highlighters for marking important information.",
         "price": 12.99,
-        "image": "https://example.com/images/highlighter-set.jpg"
+        "image": "https://images.unsplash.com/photo-1515524738708-df9e7f57ef18?w=500"
         }, 
         {
         "id": 10,
         "name": "Binder",
         "description": "A three-ring binder to keep your papers organized.",
         "price": 8.99,
-        "image": "https://example.com/images/binder.jpg"
+        "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=500"
         }
     ]
     

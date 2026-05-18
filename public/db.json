@@ -1,0 +1,115 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Backpack",
+      "description": "A sturdy backpack for carrying books and supplies.",
+      "price": 29.99,
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500"
+    },
+    {
+      "id": "2",
+      "name": "Notebook",
+      "description": "A spiral notebook for taking notes in class.",
+      "price": 3.99,
+      "image": "https://images.unsplash.com/photo-1507842217343-583f20270319?w=500"
+    },
+    {
+      "id": "3",
+      "name": "Pencil Case",
+      "description": "A compact pencil case to keep your writing tools organized.",
+      "price": 9.99,
+      "image": "https://images.unsplash.com/photo-1517519574590-440ce432232f?w=500"
+    },
+    {
+      "id": "4",
+      "name": "Lunchbox",
+      "description": "A durable lunchbox to keep your food fresh.",
+      "price": 14.99,
+      "image": "https://images.unsplash.com/photo-1585521898778-db1cf9b8b64e?w=500"
+    },
+    {
+      "id": "5",
+      "name": "Water Bottle",
+      "description": "A reusable water bottle to stay hydrated throughout the day.",
+      "price": 7.99,
+      "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e9?w=500"
+    },
+    {
+      "id": "6",
+      "name": "Ruler",
+      "description": "A plastic ruler for measuring and drawing straight lines.",
+      "price": 2.99,
+      "image": "https://images.unsplash.com/photo-1609542039990-e9cc7b6b7ff9?w=500"
+    },
+    {
+      "id": "7",
+      "name": "Eraser",
+      "description": "A simple eraser for correcting mistakes.",
+      "price": 1.99,
+      "image": "https://images.unsplash.com/photo-1580088160562-40c08d2d8f8d?w=500"
+    },
+    {
+      "id": "8",
+      "name": "Calculator",
+      "description": "A basic calculator for math classes.",
+      "price": 19.99,
+      "image": "https://images.unsplash.com/photo-1494318141107-2b57c8ed4a3f?w=500"
+    },
+    {
+      "id": "9",
+      "name": "Highlighter Set",
+      "description": "A set of colorful highlighters for marking important information.",
+      "price": 12.99,
+      "image": "https://images.unsplash.com/photo-1515524738708-df9e7f57ef18?w=500"
+    },
+    {
+      "id": "10",
+      "name": "Binder",
+      "description": "A three-ring binder to keep your papers organized.",
+      "price": 8.99,
+      "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=500"
+    },
+    {
+      "name": "hsydscuk",
+      "description": "jdghkd",
+      "price": 23,
+      "image": "https://images.unsplash.com/photo-1591028666702-f1264db7260d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cGVuY2lsfGVufDB8MXwwfHx8Mg%3D%3D",
+      "submitDate": "2026-05-18",
+      "id": "zOxW561kOes"
+    },
+    {
+      "name": "Notebook",
+      "description": "Spiral notebook for taking notes.",
+      "price": 3.99,
+      "image": "https://images.unsplash.com/photo-1623697899811-f2403f50685e?w=703",
+      "submitDate": "2026-05-18",
+      "id": "b4sjn093ebg"
+    },
+    {
+      "name": "Pencil Case",
+      "description": "A stylish pencil case to keep your things organised in class.",
+      "price": 20.55,
+      "image": "https://images.unsplash.com/photo-1609126788187-323a73f38a4e?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "submitDate": "2026-05-18",
+      "id": "SpZErYS_wvo"
+    },
+    {
+      "name": "Test Item",
+      "description": "Created by automated test",
+      "price": 1.23,
+      "image": "https://picsum.photos/200/150",
+      "submitDate": "2026-05-18",
+      "id": "slpAVcKz620"
+    },
+    {
+      "name": "c s d",
+      "description": "dwaa d",
+      "price": 23,
+      "image": "npm install react-hot-toast",
+      "submitDate": "2026-05-18",
+      "id": "b84VFE2tfUo"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
