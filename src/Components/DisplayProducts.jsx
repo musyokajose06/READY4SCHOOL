@@ -1,7 +1,6 @@
-import React from 'react'
-import { ShoppingCart } from 'lucide-react'
+import { ShoppingCart, Delete } from 'lucide-react'
 
-export default function DisplayProducts({ products }) {
+export default function DisplayProducts({ products, deleteProduct }) {
   return (
     <div className="w-full px-4 pb-8">
       {products.length === 0 ? (
@@ -40,6 +39,9 @@ export default function DisplayProducts({ products }) {
                   <button className="bg-blue-600 text-white p-2 rounded-md hover:bg-blue-700 transition-colors">
                     <ShoppingCart size={20} />
                   </button>
+                  <button onClick={() => deleteProduct(product.id)} className="bg-red-600 text-white p-2 rounded-md hover:bg-red-700 transition-colors">
+                    <Delete size={20} />
+                  </button>                  
                 </div>
               </div>
             </div>

@@ -42,6 +42,22 @@ export default function Shop() {
     )
   }, [searchTerm, products])
 
+  // delete product function (for admin)
+  const deleteProduct = (id) => {
+    fetch(`http://localhost:3001/products/${id}`, {
+      method: 'DELETE',
+    })
+      .then((response) => {
+        if (!response.ok) {
+          throw new Error('Failed to delete product')
+        }
+        setProducts((prevProducts) => prevProducts.filter((product) => product.id !== id))
+      })
+      .catch((error) => {
+        console.error('Error deleting product:', error)
+      })
+  }
+
   return (
     <div className="w-full">
       <div className="flex flex-row justify-center items-center gap-3 my-6">
@@ -58,7 +74,7 @@ export default function Shop() {
       {loading ? (
         <div className="text-center py-8">Loading products...</div>
       ) : (
-        <DisplayProducts products={filteredProducts} />
+        <DisplayProducts products={filteredProducts} deleteProduct={deleteProduct} />
       )}
     </div>
   )
